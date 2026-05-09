@@ -80,8 +80,7 @@ This project does not require API keys, tokens, or external credentials.
 ---
 
 ## How to Run the Notebook
-From the project directory, open:
-- source_code/551project.ipynb
+From the project directory, open: source_code/551project.ipynb
 Run the notebook cells in order to:
 - load the dataset,
 - create the DuckDB table,
